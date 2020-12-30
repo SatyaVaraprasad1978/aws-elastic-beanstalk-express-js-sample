@@ -27,3 +27,5 @@ This tutorial is divided into five short modules. You must complete each module 
 - Create Delivery Pipeline (10 minutes): Create a pipeline to automatically build and deploy the application using AWS CodePipeline.
 - Finalize Pipeline and Test (5 minutes): Add a review stage to the pipeline and test its execution.
 
+### Reference Link
+- https://aws.amazon.com/getting-started/hands-on/create-continuous-delivery-pipeline/
